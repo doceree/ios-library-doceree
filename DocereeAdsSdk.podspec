@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
   spec.authors      = { 'Dushyant Pawar' => 'dushynat.pawar@doceree.com' }
   spec.summary      = 'Doceree iOS SDK for mobile ads.'
   spec.platform 	= :ios, "9.0"
-  spec.source       = { :git => 'https://github.com/doceree/ios-sdk.git', :tag => '1.0.0' }
+  spec.source       = { :git => 'https://github.com/doceree/ios-library-doceree.git', :tag => '1.0.0' }
   spec.vendored_frameworks = 'xcframework/DocereeAdsSdk.xcframework'
   spec.swift_version    = '5.0'
 end
