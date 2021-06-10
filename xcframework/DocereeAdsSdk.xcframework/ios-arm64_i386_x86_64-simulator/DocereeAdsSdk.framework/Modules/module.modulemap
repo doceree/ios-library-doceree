@@ -1,0 +1,11 @@
+framework module DocereeAdsSdk {
+  umbrella header "DocereeAdsSdk.h"
+
+  export *
+  module * { export * }
+}
+
+module DocereeAdsSdk.Swift {
+    header "DocereeAdsSdk-Swift.h"
+    requires objc
+}
