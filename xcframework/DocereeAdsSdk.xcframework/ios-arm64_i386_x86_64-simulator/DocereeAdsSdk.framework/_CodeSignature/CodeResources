@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		p/ib/3lUK280wDMgtl85uskw2x4=
+		P5n0+gJP3lOLLcbSxF6Ghj2fxD0=
 		</data>
 		<key>Headers/DocereeAdsSdk-Swift.h</key>
 		<data>
-		6lzdMWcccp/MnU98QDhuaK4dkSY=
+		rYoGAVrd2WxfU7c0N8zHCkDxfhc=
 		</data>
 		<key>Headers/DocereeAdsSdk.h</key>
 		<data>
@@ -18,79 +18,79 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		VA29DBaVguZohuepegwN4nFRlO0=
+		OXqarBXVpRODhc/+wCTguvmftsI=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		cVCfPXiGjfPnsIKTxqG12OYWVw4=
+		ymXbYIm9n0KcCeit2PJy4mnaBWM=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		xsL70LixUXwOXmbSSnYLN/mCxXo=
+		8L5UNAWvVI78g8v1ao+2S/TEoWE=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VqYR748Jo4jvx37dEegp5+Q69t8=
+		OIA1AdLm2UhfV7hwfgBN287tZ2E=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		cVCfPXiGjfPnsIKTxqG12OYWVw4=
+		ymXbYIm9n0KcCeit2PJy4mnaBWM=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		xsL70LixUXwOXmbSSnYLN/mCxXo=
+		8L5UNAWvVI78g8v1ao+2S/TEoWE=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		VqYR748Jo4jvx37dEegp5+Q69t8=
+		OIA1AdLm2UhfV7hwfgBN287tZ2E=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ns5uxi6/RGrXFDnOn1iRG6HX4Q8=
+		s173ekEqBSdzNqsWXSr3zi26ziU=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		rZfgc5T3jUOtXApHxR54L6nHS3Y=
+		JsQZq6TfXQSO7+UcAkUrAFYQ6Xw=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Fpw+3OZtAaFlPLcES9ROxlfhQsw=
+		KnmJ5XolZfIT7AVyQuMpMkI6pbo=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/i386.swiftdoc</key>
 		<data>
-		ns5uxi6/RGrXFDnOn1iRG6HX4Q8=
+		s173ekEqBSdzNqsWXSr3zi26ziU=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/i386.swiftinterface</key>
 		<data>
-		rZfgc5T3jUOtXApHxR54L6nHS3Y=
+		JsQZq6TfXQSO7+UcAkUrAFYQ6Xw=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/i386.swiftmodule</key>
 		<data>
-		Fpw+3OZtAaFlPLcES9ROxlfhQsw=
+		KnmJ5XolZfIT7AVyQuMpMkI6pbo=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Aq1WmypsKhmM8SiHCBiWysRPWCI=
+		mW44jLQk4WxyiNEmSdoT9fk5F6I=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		FSmXbULqIfs0jHvz2ehhdKzYynI=
+		SPwoUquTMhsa8dOkPkncfTG0pwc=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		bPcernUHzW2Urs0fzYzfX84lW+0=
+		ekBxqGhmeIZjHeuwL5OcaWRxt4U=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		Aq1WmypsKhmM8SiHCBiWysRPWCI=
+		mW44jLQk4WxyiNEmSdoT9fk5F6I=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		FSmXbULqIfs0jHvz2ehhdKzYynI=
+		SPwoUquTMhsa8dOkPkncfTG0pwc=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		bPcernUHzW2Urs0fzYzfX84lW+0=
+		ekBxqGhmeIZjHeuwL5OcaWRxt4U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -103,22 +103,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			p/ib/3lUK280wDMgtl85uskw2x4=
+			P5n0+gJP3lOLLcbSxF6Ghj2fxD0=
 			</data>
 			<key>hash2</key>
 			<data>
-			NHKlABJDBuG44JWNo4TOteQWPZhWDW8KgvcgZ2G+C/Q=
+			ZFcvTVaswyl0VKCu3ANVvlnAlONp+0OsJjnerZ1h2WE=
 			</data>
 		</dict>
 		<key>Headers/DocereeAdsSdk-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6lzdMWcccp/MnU98QDhuaK4dkSY=
+			rYoGAVrd2WxfU7c0N8zHCkDxfhc=
 			</data>
 			<key>hash2</key>
 			<data>
-			nt0d+kCFENjSWBgrgnLaFZWgL243nbCDpaincn3XizM=
+			iVaD0Gv9ztXNnhPO3gPdZ6Nu8eGkPyY6eBctImMrKxA=
 			</data>
 		</dict>
 		<key>Headers/DocereeAdsSdk.h</key>
@@ -136,198 +136,198 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cVCfPXiGjfPnsIKTxqG12OYWVw4=
+			ymXbYIm9n0KcCeit2PJy4mnaBWM=
 			</data>
 			<key>hash2</key>
 			<data>
-			qG/N5NxkIZQWYCpJ//L/lJF3yUEZfAO9VgAY4I0JwXg=
+			LctTTdJ2pUtIU6qSVTtIkUdTy7BS1ui2jY0F6tzDzJU=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xsL70LixUXwOXmbSSnYLN/mCxXo=
+			8L5UNAWvVI78g8v1ao+2S/TEoWE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ex0Qx+WdlKRtmm7E6bKB9ES3lB6Rq4zmRv0cwxjasCE=
+			Tx+HYK3dkdYe63yZPw9dI5XHCkQKV8CoNVvBxXvj2rQ=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VqYR748Jo4jvx37dEegp5+Q69t8=
+			OIA1AdLm2UhfV7hwfgBN287tZ2E=
 			</data>
 			<key>hash2</key>
 			<data>
-			orec+7zZy5tQxLyxdKzI19dHpFFh1x+VpgsghRAhemY=
+			VqCFdsv47r4IHeimlbzWJBT8rewWsmoQvz7w21G1lx8=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cVCfPXiGjfPnsIKTxqG12OYWVw4=
+			ymXbYIm9n0KcCeit2PJy4mnaBWM=
 			</data>
 			<key>hash2</key>
 			<data>
-			qG/N5NxkIZQWYCpJ//L/lJF3yUEZfAO9VgAY4I0JwXg=
+			LctTTdJ2pUtIU6qSVTtIkUdTy7BS1ui2jY0F6tzDzJU=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xsL70LixUXwOXmbSSnYLN/mCxXo=
+			8L5UNAWvVI78g8v1ao+2S/TEoWE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ex0Qx+WdlKRtmm7E6bKB9ES3lB6Rq4zmRv0cwxjasCE=
+			Tx+HYK3dkdYe63yZPw9dI5XHCkQKV8CoNVvBxXvj2rQ=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VqYR748Jo4jvx37dEegp5+Q69t8=
+			OIA1AdLm2UhfV7hwfgBN287tZ2E=
 			</data>
 			<key>hash2</key>
 			<data>
-			orec+7zZy5tQxLyxdKzI19dHpFFh1x+VpgsghRAhemY=
+			VqCFdsv47r4IHeimlbzWJBT8rewWsmoQvz7w21G1lx8=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ns5uxi6/RGrXFDnOn1iRG6HX4Q8=
+			s173ekEqBSdzNqsWXSr3zi26ziU=
 			</data>
 			<key>hash2</key>
 			<data>
-			wjWls4WdfKdGwwSDFq+eesDgsljTWfODowQuXmXQH1k=
+			3mcVZxqU1T7bzc8dmWxAqvcIfNqUkZQ9HoYp9e5o5PQ=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rZfgc5T3jUOtXApHxR54L6nHS3Y=
+			JsQZq6TfXQSO7+UcAkUrAFYQ6Xw=
 			</data>
 			<key>hash2</key>
 			<data>
-			vL+9Bjpr/m8BVwgr0RdRmFViTBGdOwk2xvq97we8WKM=
+			EzBBWzTOi6LTaFmmBfoUka3AcdAwrVTiwkLpfmHpnU8=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Fpw+3OZtAaFlPLcES9ROxlfhQsw=
+			KnmJ5XolZfIT7AVyQuMpMkI6pbo=
 			</data>
 			<key>hash2</key>
 			<data>
-			2+SyP+zluvIzMS1MbFRXYjzwkNYSEywAALxT1FXp6J4=
+			9D4VIg3U3k4ckpEi2sX2EALo81MmfqpS3mu48i1S0CU=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ns5uxi6/RGrXFDnOn1iRG6HX4Q8=
+			s173ekEqBSdzNqsWXSr3zi26ziU=
 			</data>
 			<key>hash2</key>
 			<data>
-			wjWls4WdfKdGwwSDFq+eesDgsljTWfODowQuXmXQH1k=
+			3mcVZxqU1T7bzc8dmWxAqvcIfNqUkZQ9HoYp9e5o5PQ=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/i386.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rZfgc5T3jUOtXApHxR54L6nHS3Y=
+			JsQZq6TfXQSO7+UcAkUrAFYQ6Xw=
 			</data>
 			<key>hash2</key>
 			<data>
-			vL+9Bjpr/m8BVwgr0RdRmFViTBGdOwk2xvq97we8WKM=
+			EzBBWzTOi6LTaFmmBfoUka3AcdAwrVTiwkLpfmHpnU8=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Fpw+3OZtAaFlPLcES9ROxlfhQsw=
+			KnmJ5XolZfIT7AVyQuMpMkI6pbo=
 			</data>
 			<key>hash2</key>
 			<data>
-			2+SyP+zluvIzMS1MbFRXYjzwkNYSEywAALxT1FXp6J4=
+			9D4VIg3U3k4ckpEi2sX2EALo81MmfqpS3mu48i1S0CU=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Aq1WmypsKhmM8SiHCBiWysRPWCI=
+			mW44jLQk4WxyiNEmSdoT9fk5F6I=
 			</data>
 			<key>hash2</key>
 			<data>
-			s+0NMpvHPsmXRDk2KJT4oDW3cEzfhy3ftOwDOsngWMc=
+			3BouZ6IEOVizB61Dve0GSwiIk82Nrx/uD/AQOLY1REo=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FSmXbULqIfs0jHvz2ehhdKzYynI=
+			SPwoUquTMhsa8dOkPkncfTG0pwc=
 			</data>
 			<key>hash2</key>
 			<data>
-			fc0qIJjTHC4+9p8+P0zELSNe59xlzUiIgDoiCAEbuhY=
+			HopIT9qj9xDqqQUkaePmKuJSt7FDFpBZW9e3wJYrl4c=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bPcernUHzW2Urs0fzYzfX84lW+0=
+			ekBxqGhmeIZjHeuwL5OcaWRxt4U=
 			</data>
 			<key>hash2</key>
 			<data>
-			1hfLdsUipUID/O1uNs0AvX4/9WWpzEuagW2+WkJ04N0=
+			x7UhfqAUAzPOl6AT2yI3boJjLzeUCOWumRl7FnylVMI=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Aq1WmypsKhmM8SiHCBiWysRPWCI=
+			mW44jLQk4WxyiNEmSdoT9fk5F6I=
 			</data>
 			<key>hash2</key>
 			<data>
-			s+0NMpvHPsmXRDk2KJT4oDW3cEzfhy3ftOwDOsngWMc=
+			3BouZ6IEOVizB61Dve0GSwiIk82Nrx/uD/AQOLY1REo=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FSmXbULqIfs0jHvz2ehhdKzYynI=
+			SPwoUquTMhsa8dOkPkncfTG0pwc=
 			</data>
 			<key>hash2</key>
 			<data>
-			fc0qIJjTHC4+9p8+P0zELSNe59xlzUiIgDoiCAEbuhY=
+			HopIT9qj9xDqqQUkaePmKuJSt7FDFpBZW9e3wJYrl4c=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bPcernUHzW2Urs0fzYzfX84lW+0=
+			ekBxqGhmeIZjHeuwL5OcaWRxt4U=
 			</data>
 			<key>hash2</key>
 			<data>
-			1hfLdsUipUID/O1uNs0AvX4/9WWpzEuagW2+WkJ04N0=
+			x7UhfqAUAzPOl6AT2yI3boJjLzeUCOWumRl7FnylVMI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

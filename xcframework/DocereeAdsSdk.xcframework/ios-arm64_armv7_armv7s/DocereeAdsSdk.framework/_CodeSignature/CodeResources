@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		p/ib/3lUK280wDMgtl85uskw2x4=
+		P5n0+gJP3lOLLcbSxF6Ghj2fxD0=
 		</data>
 		<key>Headers/DocereeAdsSdk-Swift.h</key>
 		<data>
-		plVITeihD4BatnQo5d7ffu7cmEY=
+		buxPZ6Cuw8PDE2IzZy9/UfdEvds=
 		</data>
 		<key>Headers/DocereeAdsSdk.h</key>
 		<data>
@@ -18,91 +18,91 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cZQ/SCo/sy8YBKvWA2MOi8A67l4=
+		Jw9CBOMlN5MDLdCfST2UtUkTUT8=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm.swiftdoc</key>
 		<data>
-		cXQuXqD8fiI6E2BMUtunMq0c+78=
+		kZ1mJC6kfV7YlCcz8LSxv/y9RNQ=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm.swiftinterface</key>
 		<data>
-		j+CYC3RDpNc1uIBFYPc4Oz/wgqk=
+		REMnrSWpcLNsveSBzKKoeQdVQWA=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm.swiftmodule</key>
 		<data>
-		ke/SMrcqejJDIAn+I8Ri7iaxQXQ=
+		Vk6f5G3OOxgviXdojOgUwNUxjnU=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		Wolh2Grhs61IcrbOrYWyZ1tHkzE=
+		311njWNDW/gvRjt2G0ujnLZgc1g=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		4fb8AT6Hy+6mvBtH+aQJ6RXzKj0=
+		DSn89I61o8LALw/4D+lPgoQdKuY=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		hXnXs3zTJRc+I7k++NxBRtZ9nTc=
+		M2dC5vt2ijQ7PwefbOWpHzyx32A=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		Wolh2Grhs61IcrbOrYWyZ1tHkzE=
+		311njWNDW/gvRjt2G0ujnLZgc1g=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		4fb8AT6Hy+6mvBtH+aQJ6RXzKj0=
+		DSn89I61o8LALw/4D+lPgoQdKuY=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		hXnXs3zTJRc+I7k++NxBRtZ9nTc=
+		M2dC5vt2ijQ7PwefbOWpHzyx32A=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
-		cXQuXqD8fiI6E2BMUtunMq0c+78=
+		kZ1mJC6kfV7YlCcz8LSxv/y9RNQ=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7-apple-ios.swiftinterface</key>
 		<data>
-		j+CYC3RDpNc1uIBFYPc4Oz/wgqk=
+		REMnrSWpcLNsveSBzKKoeQdVQWA=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		ke/SMrcqejJDIAn+I8Ri7iaxQXQ=
+		Vk6f5G3OOxgviXdojOgUwNUxjnU=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7.swiftdoc</key>
 		<data>
-		cXQuXqD8fiI6E2BMUtunMq0c+78=
+		kZ1mJC6kfV7YlCcz8LSxv/y9RNQ=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7.swiftinterface</key>
 		<data>
-		j+CYC3RDpNc1uIBFYPc4Oz/wgqk=
+		REMnrSWpcLNsveSBzKKoeQdVQWA=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		ke/SMrcqejJDIAn+I8Ri7iaxQXQ=
+		Vk6f5G3OOxgviXdojOgUwNUxjnU=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7s-apple-ios.swiftdoc</key>
 		<data>
-		WY/ROHRtXqftw4Qrt42X5/r/ofw=
+		X3TQoGSUtWlvcBW/Gn2DkrX4OQA=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7s-apple-ios.swiftinterface</key>
 		<data>
-		+KNPd6BXcxN3mVOzT7v1sJHZZ+M=
+		Pr5pr49wOFxn6FfHXYwUi9MR8bc=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7s-apple-ios.swiftmodule</key>
 		<data>
-		XlBxNboGbUiigL1ssAairurWT5k=
+		JEHXJ3KMYUZP1yLvm5eec3lztEQ=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7s.swiftdoc</key>
 		<data>
-		WY/ROHRtXqftw4Qrt42X5/r/ofw=
+		X3TQoGSUtWlvcBW/Gn2DkrX4OQA=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7s.swiftinterface</key>
 		<data>
-		+KNPd6BXcxN3mVOzT7v1sJHZZ+M=
+		Pr5pr49wOFxn6FfHXYwUi9MR8bc=
 		</data>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7s.swiftmodule</key>
 		<data>
-		XlBxNboGbUiigL1ssAairurWT5k=
+		JEHXJ3KMYUZP1yLvm5eec3lztEQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -115,22 +115,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			p/ib/3lUK280wDMgtl85uskw2x4=
+			P5n0+gJP3lOLLcbSxF6Ghj2fxD0=
 			</data>
 			<key>hash2</key>
 			<data>
-			NHKlABJDBuG44JWNo4TOteQWPZhWDW8KgvcgZ2G+C/Q=
+			ZFcvTVaswyl0VKCu3ANVvlnAlONp+0OsJjnerZ1h2WE=
 			</data>
 		</dict>
 		<key>Headers/DocereeAdsSdk-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			plVITeihD4BatnQo5d7ffu7cmEY=
+			buxPZ6Cuw8PDE2IzZy9/UfdEvds=
 			</data>
 			<key>hash2</key>
 			<data>
-			BZx1MT4HLy6ytQnVrK34F2kA9fOSHyD+f8pqRuhXBHs=
+			5myDwM3Bk9783HQVp1hs2UToIiY5u7u/SG4LW4ApMv0=
 			</data>
 		</dict>
 		<key>Headers/DocereeAdsSdk.h</key>
@@ -148,231 +148,231 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cXQuXqD8fiI6E2BMUtunMq0c+78=
+			kZ1mJC6kfV7YlCcz8LSxv/y9RNQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			pguRE6doCJUHM9MS6a24nmkcMgq3XFjUiYi4aZZfRi4=
+			91NH4un6M/LulUtIob3IigQvmyHzjcpW7GFj+5v1q6w=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j+CYC3RDpNc1uIBFYPc4Oz/wgqk=
+			REMnrSWpcLNsveSBzKKoeQdVQWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			5W8u9lwMC7oAQeJMgWiUuODTRREhqYeTYxRWN6ocGzg=
+			uTdx4rit952RWBgQp2SP2JkM8v9R7eTW61Bm9xLTqXI=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ke/SMrcqejJDIAn+I8Ri7iaxQXQ=
+			Vk6f5G3OOxgviXdojOgUwNUxjnU=
 			</data>
 			<key>hash2</key>
 			<data>
-			kmo7q3waSUlLjgVmgp9pbQWLK7GzuWRx1NCJvomX7Oo=
+			+Tu+zA1LNkf+bhltJuPG5rJSq0w+OaLRygigC++9jRI=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Wolh2Grhs61IcrbOrYWyZ1tHkzE=
+			311njWNDW/gvRjt2G0ujnLZgc1g=
 			</data>
 			<key>hash2</key>
 			<data>
-			gt4ObhT9QM+UrMxwpv0GX7GnQodACueyL20d9OmIjHU=
+			fidhKAa+1RUHkqK3S2hfIAOkoPZ7uUMde36O+PfpZWo=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4fb8AT6Hy+6mvBtH+aQJ6RXzKj0=
+			DSn89I61o8LALw/4D+lPgoQdKuY=
 			</data>
 			<key>hash2</key>
 			<data>
-			lv6B1bGMezVmBgUr++kvKNUaANFhq1sN8aHlzF28S40=
+			jStQNiQaddZG14qfCfftGFWU/O5f+T0TM2vvT+2x6Fw=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hXnXs3zTJRc+I7k++NxBRtZ9nTc=
+			M2dC5vt2ijQ7PwefbOWpHzyx32A=
 			</data>
 			<key>hash2</key>
 			<data>
-			eJN2ZinajPCn3a+IjI0BKBKtBmi1HOo0TFdxq2cRaWg=
+			2a0kedT8guvFoeh8lB/n4llX9CmUrXB+44JnBw4YjNQ=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Wolh2Grhs61IcrbOrYWyZ1tHkzE=
+			311njWNDW/gvRjt2G0ujnLZgc1g=
 			</data>
 			<key>hash2</key>
 			<data>
-			gt4ObhT9QM+UrMxwpv0GX7GnQodACueyL20d9OmIjHU=
+			fidhKAa+1RUHkqK3S2hfIAOkoPZ7uUMde36O+PfpZWo=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4fb8AT6Hy+6mvBtH+aQJ6RXzKj0=
+			DSn89I61o8LALw/4D+lPgoQdKuY=
 			</data>
 			<key>hash2</key>
 			<data>
-			lv6B1bGMezVmBgUr++kvKNUaANFhq1sN8aHlzF28S40=
+			jStQNiQaddZG14qfCfftGFWU/O5f+T0TM2vvT+2x6Fw=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hXnXs3zTJRc+I7k++NxBRtZ9nTc=
+			M2dC5vt2ijQ7PwefbOWpHzyx32A=
 			</data>
 			<key>hash2</key>
 			<data>
-			eJN2ZinajPCn3a+IjI0BKBKtBmi1HOo0TFdxq2cRaWg=
+			2a0kedT8guvFoeh8lB/n4llX9CmUrXB+44JnBw4YjNQ=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cXQuXqD8fiI6E2BMUtunMq0c+78=
+			kZ1mJC6kfV7YlCcz8LSxv/y9RNQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			pguRE6doCJUHM9MS6a24nmkcMgq3XFjUiYi4aZZfRi4=
+			91NH4un6M/LulUtIob3IigQvmyHzjcpW7GFj+5v1q6w=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j+CYC3RDpNc1uIBFYPc4Oz/wgqk=
+			REMnrSWpcLNsveSBzKKoeQdVQWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			5W8u9lwMC7oAQeJMgWiUuODTRREhqYeTYxRWN6ocGzg=
+			uTdx4rit952RWBgQp2SP2JkM8v9R7eTW61Bm9xLTqXI=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ke/SMrcqejJDIAn+I8Ri7iaxQXQ=
+			Vk6f5G3OOxgviXdojOgUwNUxjnU=
 			</data>
 			<key>hash2</key>
 			<data>
-			kmo7q3waSUlLjgVmgp9pbQWLK7GzuWRx1NCJvomX7Oo=
+			+Tu+zA1LNkf+bhltJuPG5rJSq0w+OaLRygigC++9jRI=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cXQuXqD8fiI6E2BMUtunMq0c+78=
+			kZ1mJC6kfV7YlCcz8LSxv/y9RNQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			pguRE6doCJUHM9MS6a24nmkcMgq3XFjUiYi4aZZfRi4=
+			91NH4un6M/LulUtIob3IigQvmyHzjcpW7GFj+5v1q6w=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j+CYC3RDpNc1uIBFYPc4Oz/wgqk=
+			REMnrSWpcLNsveSBzKKoeQdVQWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			5W8u9lwMC7oAQeJMgWiUuODTRREhqYeTYxRWN6ocGzg=
+			uTdx4rit952RWBgQp2SP2JkM8v9R7eTW61Bm9xLTqXI=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ke/SMrcqejJDIAn+I8Ri7iaxQXQ=
+			Vk6f5G3OOxgviXdojOgUwNUxjnU=
 			</data>
 			<key>hash2</key>
 			<data>
-			kmo7q3waSUlLjgVmgp9pbQWLK7GzuWRx1NCJvomX7Oo=
+			+Tu+zA1LNkf+bhltJuPG5rJSq0w+OaLRygigC++9jRI=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7s-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WY/ROHRtXqftw4Qrt42X5/r/ofw=
+			X3TQoGSUtWlvcBW/Gn2DkrX4OQA=
 			</data>
 			<key>hash2</key>
 			<data>
-			ny87piiUVnNeUwYvFYX3J2WwgeG3t6myg3R6dW00+dY=
+			WFAXumLplp/nSTt+SpH5qlt6sYaDYsgR5ax7gzG++JY=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7s-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+KNPd6BXcxN3mVOzT7v1sJHZZ+M=
+			Pr5pr49wOFxn6FfHXYwUi9MR8bc=
 			</data>
 			<key>hash2</key>
 			<data>
-			brFv2QB/BkXE2lTpbNxNhajzWVgmBInbQE7mTi0CjcM=
+			vvbNPCPOIziqVIQA9w9N236mxBYp18bbzwZKUDC+8PY=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7s-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XlBxNboGbUiigL1ssAairurWT5k=
+			JEHXJ3KMYUZP1yLvm5eec3lztEQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pvo8OWbs+FMBr0HmTyHAwTsX0Oez/3tNBm2skbXlEFk=
+			8DwIlBgljBmEC5n7uf6sOxzZUlic+q4jkguER6TpAUI=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7s.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WY/ROHRtXqftw4Qrt42X5/r/ofw=
+			X3TQoGSUtWlvcBW/Gn2DkrX4OQA=
 			</data>
 			<key>hash2</key>
 			<data>
-			ny87piiUVnNeUwYvFYX3J2WwgeG3t6myg3R6dW00+dY=
+			WFAXumLplp/nSTt+SpH5qlt6sYaDYsgR5ax7gzG++JY=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7s.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+KNPd6BXcxN3mVOzT7v1sJHZZ+M=
+			Pr5pr49wOFxn6FfHXYwUi9MR8bc=
 			</data>
 			<key>hash2</key>
 			<data>
-			brFv2QB/BkXE2lTpbNxNhajzWVgmBInbQE7mTi0CjcM=
+			vvbNPCPOIziqVIQA9w9N236mxBYp18bbzwZKUDC+8PY=
 			</data>
 		</dict>
 		<key>Modules/DocereeAdsSdk.swiftmodule/armv7s.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XlBxNboGbUiigL1ssAairurWT5k=
+			JEHXJ3KMYUZP1yLvm5eec3lztEQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pvo8OWbs+FMBr0HmTyHAwTsX0Oez/3tNBm2skbXlEFk=
+			8DwIlBgljBmEC5n7uf6sOxzZUlic+q4jkguER6TpAUI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
